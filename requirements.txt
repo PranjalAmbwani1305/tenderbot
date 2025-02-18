@@ -1,5 +1,7 @@
-streamlit 
-pinecone-client 
-transformers 
+ streamlit 
 pandas 
-numpy
+numpy 
+transformers 
+pinecone 
+python-dotenv 
+difflib
